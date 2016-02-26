@@ -7,15 +7,19 @@ Naturally since these are ruby scripts, ruby is required. Ruby comes standard on
 
 http://rubyinstaller.org/downloads/
 
+###Install
+
 For these scripts to run you need to install the xmlmc-rb gem, included in this package. To do that, download this repository
-Unzip and run the command gem install [path to gemfile]\xmlmc-rb-2.0.0.gem
+Unzip and run the command `gem install [path to gemfile]\xmlmc-rb-2.0.0.gem`
 
 **Please be aware that this gem is still in active development and early test phases. These scripts have been tested, but they should
 __not__ be used unless you are confident you know what you are doing**
 
+###Usage
+
 To run the scripts use the command:
 
-ruby [path to script]\[script to run].rb
+`ruby [path to script]\[script to run].rb`
 
 To simulate active use in the system use supportworks scheduler.
 
