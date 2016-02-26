@@ -3,6 +3,10 @@
 These are a set of sample scripts that implement SupportWorks XMLMC interface using Ruby. These scripts can be use to
 Populate demo call data into SupportWorks, Simulate active use in a demo system, test the XMLMC API whatever else
 
+Naturally since these are ruby scripts, ruby is required. Ruby comes standard on Linux/Unix but can be installed for windows from
+
+http://rubyinstaller.org/downloads/
+
 For these scripts to run you need to install the xmlmc-rb gem, included in this package. To do that, download this repository
 Unzip and run the command gem install [path to gemfile]\xmlmc-rb-2.0.0.gem
 
